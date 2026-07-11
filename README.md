@@ -1,2 +1,29 @@
-# karnau-ai-studio
-AI Content Factory for Karnau Tattoo
+# Karnau AI Studio
+
+AI-система для автоматического создания Instagram Reels для тату-мастера.
+
+## Цель
+
+Создать редакцию из AI-агентов, которая:
+
+- ищет темы по реальным поисковым запросам;
+- анализирует популярность;
+- пишет сценарии;
+- создает монтажный план;
+- готовит подписи;
+- помогает собирать Reels.
+
+---
+
+## Основные агенты
+
+1. Trend Hunter
+2. Topic Analyzer
+3. Script Writer
+4. Video Director
+5. Reel Builder
+6. Analytics Agent
+
+---
+
+Проект находится в активной разработке.
